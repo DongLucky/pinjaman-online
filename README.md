@@ -32,7 +32,6 @@ Meskipun tergolong dalam jenis pinjaman cepat cair, pinjaman kilat ini memiliki 
 - Memiliki Rekening Tabungan.
 - Memiliki NPWP.
 #### Apa Saja Dokumen yang Diperlukan untuk Mengajukan Pinjaman Kilat?  
-- 待定
 #### Bagaimana Prosedur Pengajuan Pinjaman Kilat Cepat Cair?  
 - Cari aplikasi pinjaman kilat yang diinginkan dari cermati.com/Google Play Store/Apple Store.
 - Unduh aplikasi tersebut ke perangkat ponsel Anda.
@@ -61,5 +60,6 @@ Secara umum penyedia pinjaman kilat sudah bekerja sama dengan berbagai bank tern
 #### Bila Terlambat Membayar Cicilan Apakah Akan Dikenakan Denda? Berapa Jumlahnya?
 Iya. Keterlambatan melakukan pembayaran cicilan sesuai dengan kesepakatan akan dikenakan denda. Jumlah denda yang diberikan akan disesuaikan dengan produk pinjaman kilat yang dipilih sesuai dengan kebijakan dari penyedia produk tersebut. Apabila tanggal jatuh tempo jatuh pada hari Sabtu/Minggu/hari libur nasional, maka pembayaran bisa dilakukan pada hari kerja selanjutnya sesuai dengan kebijakan pembayaran yang berlaku.
 
-##### ![](https://image.cermati.com/c_fit,fl_progressive,q_80,h_48/badges/google-play-badge-en.png)Download：
+##### ![](https://image.cermati.com/c_fit,fl_progressive,q_80,h_48/badges/google-play-badge-en.png)
+Unduh rekomendasi produk pinjaman online tanpa jaminan：
 1. [Ruang Duit-pinjaman uang tanpa Jaminan](https://play.google.com/store/apps/details?id=club.ruangduit.badger&hl=id)
