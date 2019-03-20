@@ -64,3 +64,4 @@ Iya. Keterlambatan melakukan pembayaran cicilan sesuai dengan kesepakatan akan d
 Unduh rekomendasi produk pinjaman online tanpa jaminan：
 1. [Ruang Duit-pinjaman uang tanpa Jaminan](https://play.google.com/store/apps/details?id=club.ruangduit.badger&hl=id)
 2. [Duit Guna-pinjam uang cepat cair tanpa ktp](https://play.google.com/store/apps/details?id=space.duitguna.clam&hl=id)
+3. [Bungkus Emas-pinjam uang cepat cair dan mudah](https://play.google.com/store/apps/details?id=club.bungkusemas.firefly)
